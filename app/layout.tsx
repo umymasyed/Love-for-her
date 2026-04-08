@@ -15,9 +15,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'I Love You - A Romantic Experience',
+  title: 'I Love You',
   description: 'A beautifully animated romantic website celebrating love with floating hearts, glowing effects, and magical interactions.',
-  generator: 'v0.app',
+ 
   icons: {
     icon: [
       {
